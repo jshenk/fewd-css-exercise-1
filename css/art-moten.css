@@ -2,5 +2,10 @@
 
 h1 {
 color: red;
-font-size: 3em;
+}
+
+/* make first list item freen */
+
+#first-milestone {
+color: green;
 }
