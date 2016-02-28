@@ -16,3 +16,9 @@ h1 {
   font-style: italic;
   font-weight: bold;
 }
+
+/* use child selector to make font information sentence pink*/
+
+.special-list-item li > span {
+  color: pink;
+}
