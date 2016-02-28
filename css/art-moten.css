@@ -1,3 +1,10 @@
+/* set entire document in a sans-serif font and sensible line-height */
+
+body {
+font-family: sans-serif;
+line-height: 1.5;
+}
+
 /* make headline red */
 
 h1 {
@@ -28,3 +35,4 @@ color: pink;
 ul blockquote {
 background-color: #d3d3d3;
 }
+
