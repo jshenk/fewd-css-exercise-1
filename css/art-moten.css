@@ -22,3 +22,9 @@ font-weight: bold;
 .special-list-item li > span {
 color: pink;
 }
+
+/* use a descendant selector to give all <blockquotes> a gray background color */
+
+ul blockquote {
+background-color: #d3d3d3;
+}
