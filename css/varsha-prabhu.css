@@ -22,3 +22,9 @@ h1 {
 .special-list-item li > span {
   color: pink;
 }
+
+/* give blockquotes gray background color*/
+
+ul blockquote {
+  background-color: #d3d3d3;
+}
