@@ -9,3 +9,10 @@ h1 {
 #first-milestone {
   color: green;
 }
+
+/* make years bold and italic*/
+
+.year {
+  font-style: italic;
+  font-weight: bold;
+}
