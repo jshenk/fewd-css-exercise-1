@@ -10,3 +10,8 @@ h1{
 #first_li{
   color: green;
 }
+
+.date{
+  font-weight: bold;
+  font-style: italic;
+}
