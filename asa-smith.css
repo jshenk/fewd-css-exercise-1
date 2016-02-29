@@ -15,3 +15,7 @@ h1{
   font-weight: bold;
   font-style: italic;
 }
+
+.font > li{
+  color: pink;
+}
