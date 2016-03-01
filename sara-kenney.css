@@ -1,0 +1,21 @@
+/*This is a CSS comment*/
+body {
+  font-family: sans-serif;
+  line-height: 1.5em
+}
+h1 {
+  color: red
+}
+#first-item {
+  color: green
+}
+.date {
+  font-style: italic;
+  font-weight: bold;
+}
+#fonts > li {
+  color: pink
+}
+li blockquote {
+  background-color: gray
+}
