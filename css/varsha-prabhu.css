@@ -1,0 +1,36 @@
+/* make entire document sans-serif*/
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+/* make headline red */
+h1 {
+  color: red;
+  font-size: 3em;
+}
+/* make first line green*/
+
+#first-milestone {
+  color: green;
+}
+
+/* make years bold and italic*/
+
+.year {
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* use child selector to make font information sentence pink*/
+
+.special-list-item li > span {
+  color: pink;
+}
+
+/* give blockquotes gray background color*/
+
+ul blockquote {
+  background-color: #d3d3d3;
+}
