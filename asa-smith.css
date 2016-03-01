@@ -1,0 +1,25 @@
+body{
+  font-family: sans-serif;
+  line-height: 2;
+}
+
+h1{
+  color: red;
+}
+
+#first_li{
+  color: green;
+}
+
+.date{
+  font-weight: bold;
+  font-style: italic;
+}
+
+.font > li{
+  color: pink;
+}
+
+body blockquote{
+  background-color: grey;
+}
